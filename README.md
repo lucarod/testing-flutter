@@ -1,6 +1,8 @@
-# primeiro_projeto
+# Testing Flutter
 
-A new Flutter project.
+A side project I've made during Next Level Week #5 by Rocketseat, during an extra lesson to learn the basics of Flutter. 
+
+It's nothing worth of attention, so you can just ignore it
 
 ## Getting Started
 
